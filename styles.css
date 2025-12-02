@@ -57,7 +57,7 @@ header nav a:hover {
 
 /* Hero */
 .hero {
-    background-image: url("img/laundry_background.jpg");
+    background-image: url("laundry_background.jpg");
     background-size: cover;
     background-position: center;
     padding: 140px 40px;
@@ -431,3 +431,4 @@ img {
     max-width: 100%;
     height: auto;
 }
+
